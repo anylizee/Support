@@ -3,3 +3,8 @@ version: 2.0
 author: oaiqa
 api: [5.6.1]
 main: oaiqa\Loader
+
+permissions:
+  player.pss:
+    default: true
+    
