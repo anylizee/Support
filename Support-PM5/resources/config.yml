@@ -1,0 +1,8 @@
+# configurate support partners
+partner:
+  name: "test"
+  format: "&l&bOaiqa"
+  item: 57
+  command: '/gamemode c {player}'
+  support: 0
+  slot: 1
